@@ -1,0 +1,21 @@
+h2 {
+    font-size:  40px;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+.parents {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    font-size: 20px;
+}
+
+.child {
+    width: 50vw;
+    height: 50vw;
+    background-color: salmon;
+    font-size: 2em;
+}

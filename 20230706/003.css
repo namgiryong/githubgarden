@@ -1,0 +1,39 @@
+/* 폰트 */
+@font-face {
+    font-family: 'font-1';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 테두리 */
+.head {
+    border: 3px solid rgb(137, 34, 34);
+    width: 400px;
+    height: 400px;
+
+}
+
+/* 슬로건 */
+.slogan {
+    font-size: 20px;
+    font-family: font-1;
+    padding-left: 30px;
+}
+
+/* 사진 */
+.img-1 {
+    width: 400px;
+    height: 400px;
+    
+}
+
+/* 강조 문구-1 */
+.tx-1 {
+    color: rgb(8, 0, 255);
+}
+
+/* 강조 문구-2 */
+.tx-2 {
+    color: red;
+}
